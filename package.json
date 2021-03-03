@@ -20,7 +20,7 @@
     "mongose": "0.0.2-security",
     "passport": "^0.4.1",
     "passport-local": "^1.0.0",
-    "pug": "^3.0.0"
+    "pug": "^3.0.1"
   },
   "devDependencies": {}
 }
